@@ -1,2 +1,2 @@
 # cse431
-video link https://youtu.be/UU-onuICra8
+video link for task 1 https://youtu.be/UU-onuICra8
